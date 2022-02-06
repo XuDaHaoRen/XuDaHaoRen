@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 📚 研究方向 ： 深度学习--行人重识别
 - 😄 未来期望：  找到一份 C++ 实习岗
 - 😓为什么不做算法岗： 因为一些你懂得的原因 
-- 📫 如何联系我：boluoxu@163.com 
+- 📫 如何联系我：bolunxu@163.com 
 - 🍍 个人主页： www.xuboluo666.com
 - 🌱 微信公众号：黑盒不太黑
 - ✨ 终极理想：人人平等，世界和平
