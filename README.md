@@ -33,36 +33,28 @@ Here are some ideas to get you started:
 
 ### 2.Github 内容介绍
 
-#### 2.1 口罩检测系统
+#### [2.1 C++ 高并发服务器](https://github.com/XuDaHaoRen/Cpp-webserver)
+
+基于 C++ 的高并发服务器，基于同步 IO 的 proactor 并发模式，实现 http 请求与解析。
+
+#### [2.2 口罩检测系统](https://github.com/XuDaHaoRen/Mask-Detection-System)
 
 项目基于 yolov3 目标检测算法，实现了对于是否佩戴口罩进行图像检测和视频检测。
 
-#### 2.2 跑跑外卖
-
-基于 Android 实现了
-
-#### 2.3 C++ 高并发服务器
-
-
-#### 2.4 机器学习 Demo
+#### [2.3 机器学习 Demo](https://github.com/XuDaHaoRen/Machine-Learning)
 
 基本的机器学习算法 Demo ，使用 numpy 实现了机器学习基本算法的底层代码。
 
-#### 2.5 
+#### [2.4 跑跑外卖](https://github.com/XuDaHaoRen/PaoPaoWaiMai)
 
+基于 Android 实现的一个外卖平台。整体使用 xUtil 框架，图像显示使用 Lru 算法用于减少流量消耗。
 
 
 #### 其他
 
 都是我本科写的一些小 Demo ，主要是基于 Android ，但大多数都忘了写的啥 😓
-
-2.4 
-
-
-
-
-
-
+ 
+ 
 
 
 下面是我的公众号，每周三我将会在公众号中分享有关于个人成长和高效学习的文章，都是我自己总结哒，欢迎大佬们关注 👏🏻 ~
