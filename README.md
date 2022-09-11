@@ -37,15 +37,19 @@ Here are some ideas to get you started:
 
 基于 C++ 的高并发服务器，基于同步 IO 的 proactor 并发模式，实现 http 请求与解析。
 
-#### [2.2 口罩检测系统](https://github.com/XuDaHaoRen/Mask-Detection-System)
+#### [2.2 C++ 实现 Etcd K-V 存储系统](https://github.com/XuDaHaoRen/raft_kv))
+
+基于 C++ 的 Etcd 数据库，共识性算法使用 Raft 实现， redis 实现 kv 存储数据，asio 框架进行多个节点间的网络通信
+
+#### [2.3 口罩检测系统](https://github.com/XuDaHaoRen/Mask-Detection-System)
 
 项目基于 yolov3 目标检测算法，实现了对于是否佩戴口罩进行图像检测和视频检测。
 
-#### [2.3 机器学习 Demo](https://github.com/XuDaHaoRen/Machine-Learning)
+#### [2.4 机器学习 Demo](https://github.com/XuDaHaoRen/Machine-Learning)
 
 基本的机器学习算法 Demo ，使用 numpy 实现了机器学习基本算法的底层代码。
 
-#### [2.4 跑跑外卖](https://github.com/XuDaHaoRen/PaoPaoWaiMai)
+#### [2.5 跑跑外卖](https://github.com/XuDaHaoRen/PaoPaoWaiMai)
 
 基于 Android 实现的一个外卖平台。整体使用 xUtil 框架，图像显示使用 Lru 算法用于减少流量消耗。
 
