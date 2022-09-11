@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 基于 C++ 的高并发服务器，基于同步 IO 的 proactor 并发模式，实现 http 请求与解析。
 
-#### [2.2 C++ 实现 Etcd K-V 存储系统](https://github.com/XuDaHaoRen/raft_kv))
+#### [2.2 C++ 实现 Etcd K-V 存储系统](https://github.com/XuDaHaoRen/raft_kv)
 
 基于 C++ 的 Etcd 数据库，共识性算法使用 Raft 实现， redis 实现 kv 存储数据，asio 框架进行多个节点间的网络通信
 
