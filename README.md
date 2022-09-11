@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ### 2.Github 内容介绍
 
-#### [2.1 C++ 高并发服务器](https://github.com/XuDaHaoRen/Cpp-webserver)
+#### [2.1 C++ 高并发服务器](https://github.com/XuDaHaoRen/C-webserver)
 
 基于 C++ 的高并发服务器，基于同步 IO 的 proactor 并发模式，实现 http 请求与解析。
 
