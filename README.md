@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 ### 1. 自我介绍
 
 
-- 🔭 当前状态 ： 在读研究生二年级
+- 🔭 当前状态 ： 在读研究生三年级
 - 📚 研究方向 ： 深度学习--行人重识别
-- 😄 未来期望：  找到一份 C++ 实习岗
+- 😄 未来期望：  找到一份 C++ 秋招工作
 - 😓为什么不做算法岗： 因为一些你懂得的原因 
 - 📫 如何联系我：bolunxu@163.com 
-- 🍍 个人主页： www.xuboluo666.com （时间原因没有好好维护）
+- 🍍 个人主页： www.xuboluo666.com （基于 hexo 搭建，时间原因没有好好维护）
 - 🌱 微信公众号：黑盒不太黑
 - ✨ 终极理想：人人平等，世界和平
 - 💬 座右铭：慎独，利他
@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 
 ### 2.Github 内容介绍
 
-#### [2.1 C++ 高并发服务器](https://github.com/XuDaHaoRen/C-webserver)
+#### [2.1 基于 TiDB 的 高并发服务器](https://github.com/XuDaHaoRen/C-webserver)
 
-基于 C++ 的高并发服务器，基于同步 IO 的 proactor 并发模式，实现 http 请求与解析。
+基于 TiDB 的高并发服务器，基于同步 IO 的 proactor 并发模式，实现 http 请求与解析。
 
 #### [2.2 C++ 实现 Etcd K-V 存储系统](https://github.com/XuDaHaoRen/raft_kv)
 
